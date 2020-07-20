@@ -229,3 +229,5 @@ assertThat(getLoginName(), containsString("demo"));
 <br>
 
 ## 3. 사용자 정의 Matcher 만들기
+
+- 예제 참고
